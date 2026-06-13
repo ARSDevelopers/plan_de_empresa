@@ -1,0 +1,166 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Mapa de Posicionamiento Calidad/Precio - Proyecto SEMBREM",
+    "width": 500,
+    "height": 400,
+    "data": {
+        "values": [
+            {
+                "Marca": "Papel y Boli",
+                "Calidad": -5,
+                "Precio": -5,
+                "Tipo": "Tradicional"
+            },
+            {
+                "Marca": "Daylio / DailyBean",
+                "Calidad": -2,
+                "Precio": -4,
+                "Tipo": "App Consumo"
+            },
+            {
+                "Marca": "Eholo / DriCloud",
+                "Calidad": 4,
+                "Precio": 5,
+                "Tipo": "Software Gestión"
+            },
+            {
+                "Marca": "SEMBREM (Libreta digital)",
+                "Calidad": 5,
+                "Precio": 2,
+                "Tipo": "Proyecto"
+            }
+        ]
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "rule",
+                "color": "gray",
+                "strokeDash": [
+                    4,
+                    4
+                ]
+            },
+            "encoding": {
+                "x": {
+                    "datum": 0
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "rule",
+                "color": "gray",
+                "strokeDash": [
+                    4,
+                    4
+                ]
+            },
+            "encoding": {
+                "y": {
+                    "datum": 0
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "point",
+                "filled": true,
+                "size": 600
+            },
+            "encoding": {
+                "x": {
+                    "field": "Calidad",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            -6,
+                            6
+                        ]
+                    },
+                    "axis": {
+                        "title": "← MENOR CALIDAD | MAYOR CALIDAD →"
+                    }
+                },
+                "y": {
+                    "field": "Precio",
+                    "type": "quantitative",
+                    "scale": {
+                        "domain": [
+                            -6,
+                            6
+                        ]
+                    },
+                    "axis": {
+                        "title": "← MENOR PRECIO | MAYOR PRECIO →"
+                    }
+                },
+                "color": {
+                    "field": "Tipo",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                            "Tradicional",
+                            "App Consumo",
+                            "Software Gestión",
+                            "Proyecto"
+                        ],
+                        "range": [
+                            "#999999",
+                            "#ffcc00",
+                            "#ff4444",
+                            "#44aa44"
+                        ]
+                    },
+                    "legend": {
+                        "title": "Categoría"
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "Marca",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Calidad",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Precio",
+                        "type": "quantitative"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "dy": -20,
+                "fontWeight": "bold",
+                "fontSize": 12
+            },
+            "encoding": {
+                "x": {
+                    "field": "Calidad",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Precio",
+                    "type": "quantitative"
+                },
+                "text": {
+                    "field": "Marca",
+                    "type": "nominal"
+                }
+            }
+        }
+    ],
+    "config": {
+        "view": {
+            "stroke": "transparent"
+        },
+        "axis": {
+            "grid": false
+        }
+    }
+}
