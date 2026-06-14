@@ -12,8 +12,8 @@ Para no quedarnos solo en buenas intenciones, necesitamos medir qué está pasan
 Los datos se recopilan de forma automatizada y anónima a través de nuestra infraestructura, respetando siempre el secreto profesional. 
 
 *   **KPIs de Negocio (SaaS):**
-    *   **MRR (Ingresos Mensuales Recurrentes):** Facturación total de suscripciones al mes. Es nuestra métrica reina.
-    *   **Churn Rate (Tasa de cancelación):** Porcentaje de psicólogos que dan de baja su suscripción cada mes. Aspiramos a mantenerlo por debajo del 5%.
+    *   **MRR (Ingresos Mensuales Recurrentes):** Facturación total de suscripciones al mes.
+    *   **Churn Rate (Tasa de cancelación):** Porcentaje de psicólogos que dan de baja su suscripción cada mes. 
     *   **LTV (Lifetime Value):** Cuánto dinero nos deja un psicólogo de media antes de darse de baja.
 *   **KPIs de Uso Clínico (Adopción):**
     *   **Psicólogos Activos:** Profesionales con suscripción activa que acceden al dashboard al menos una vez por semana.
@@ -35,8 +35,8 @@ Los datos se recopilan de forma automatizada y anónima a través de nuestra inf
 Si las métricas se desvían de los objetivos, no esperaremos a que la caja se vacíe. Activaremos planes de contingencia basados en los siguientes disparadores:
 
 *   **Si la tasa de cancelación (Churn) supera el 8% mensual:**
-    *   *Acción:* Realizaremos entrevistas cualitativas con los profesionales que se dan de baja para corregir fallos en el producto y redefinir el soporte postventa.
+    *   *Acción:* Contactar directamente con los usuarios y realizar encuestas personalizadas para conocer sus impresiones y ofrecerles soluciones personalizadas.
 *   **Si el coste de adquisición (CAC) es superior a los ingresos del primer mes de suscripción:**
-    *   *Acción:* Frenar el gasto en LinkedIn Ads y pivotar hacia una comunicación más orgánica (webinars y recomendaciones directas).
+    *   *Acción:* Reducir drásticamente el presupuesto en publicidad y aumentar la inversión en marketing de contenidos y eventos.
 *   **Si la tasa de actividad del paciente cae por debajo de 2 registros semanales:**
     *   *Acción:* Rediseñar la UX de la app móvil. Menos campos de texto, más iconos intuitivos y notificaciones push tipo recordatorio más amigables.

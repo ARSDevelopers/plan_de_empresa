@@ -4,7 +4,7 @@ title: 4. Presupuesto y Simulación Financiera
 
 # 4. Presupuesto y Simulación de Escenarios
 
-Al tratarse de una primera versión de Moira, nuestro planteamiento financiero es extremadamente prudente. Queremos exprimir cada euro para conseguir el máximo impacto con el mínimo gasto. Al fin y al cabo, al ser un software (SaaS), los costes de producción física son inexistentes, lo que nos da un margen de maniobra excelente para asegurar la viabilidad del proyecto.
+Al tratarse de una primera versión de Moira, nuestro planteamiento financiero es extremadamente prudente. Tendremos que medir cada paso y cada gasto. Por otro lado, al ser un producto digital, tenemos un margen de maniobra excelente para conseguir el máximo impacto con el mínimo gasto. Con esto quiero decir que hay poco que perder y mucho que ganar si las cosas salen bien. Aprovecharemos el impulso inicial para lanzar ofertas de captación que nos permitan obtener los primeros usuarios. 
 
 ---
 

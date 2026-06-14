@@ -3,14 +3,16 @@ title: 6. Conclusiones
 ---
 # 6. Conclusiones
 
-## Viabilidad del plan
+## Viabilidad del plan: Números con los pies en la tierra
 
-Los números no mienten: la viabilidad financiera de Moira está respaldada por una estructura de costes fijos sumamente magra (apenas 1.240 € el primer año) y un modelo de suscripción directa sin periodos de gratuidad que desvaloricen la herramienta. En el mundo del software B2B, no tener pérdidas es relativamente sencillo si se mantiene el desarrollo bajo control y se subcontrata lo justo. Con tan solo captar y fidelizar a **6 psicólogos activos** (bajo la distribución de planes estimada), el proyecto ya alcanza su punto de equilibrio y cubre la totalidad de sus costes fijos de infraestructura, herramientas y marketing. A partir de ahí, el crecimiento del margen neto es exponencial.
+La viabilidad del proyecto Moira no depende de proyecciones masivas ni de una adopción disruptiva a gran escala. La estructura de costes optimizada, cifrada en un gasto operativo anual de 1.240 € durante el primer año, sitúa el punto de equilibrio (break-even) en un umbral sumamente accesible. En el sector del software B2B, la resiliencia financiera se logra mediante el control riguroso del gasto y la contención de costes indirectos.
 
-La ausencia de planes gratuitos acelera el camino hacia la rentabilidad y filtra, desde el primer minuto, a los profesionales que realmente valoran la optimización de sus sesiones.
+Con un volumen mínimo de 6 profesionales de la psicología activos, el proyecto cubre la totalidad de sus costes fijos. A partir del séptimo suscriptor, cada incorporación incide directamente en el margen neto de beneficio. La decisión estratégica de omitir modalidades de acceso gratuito o periodos de prueba prolongados responde a la necesidad de mitigar la tasa de abandono prematura, canalizando los esfuerzos de captación hacia un perfil de cliente cualificado que reconoce el retorno de inversión (ROI) operativo que la plataforma aporta a su actividad clínica.
 
 ## Coherencia del proyecto
 
-*   **Dolor real:** Resolvemos una ineficiencia crítica en la práctica psicológica: la pérdida de tiempo clínico recolectando información retrospectiva.
-*   **Alineamiento operativo:** Las acciones de comunicación en LinkedIn y webinars conectan directamente con los Buyer Personas definidos, sin dispersar el presupuesto en campañas masivas inútiles.
-*   **Modelo de monetización limpio:** Al pagar el terapeuta y acceder gratis el paciente, eliminamos fricciones de adopción y garantizamos la sostenibilidad del negocio mediante ingresos recurrentes previsibles.
+* **Destruir la ineficiencia clínica:** Acabamos con los primeros 15 a 30 minutos perdidos en consulta intentando reconstruir de memoria la semana del paciente. Moira va directa a los nudos emocionales.
+* **Marketing enfocado y sin humo:** No vamos a quemar presupuesto en publicidad masiva. Si el dinero es escaso, nos centramos en donde están los terapeutas: recomendaciones directas, feedback eficiente, demos personalizadas y el respaldo de colegios profesionales. 
+* **Monetización honesta:** El paciente ya tiene suficiente con su terapia como para cobrarle por registrar su dolor. Al pagar únicamente el profesional (que es quien recupera tiempo y reduce sus costes operativos), el círculo se cierra con limpieza, ética y rentabilidad.
+
+Al final del día, Moira busca ser una herramienta segura y humana que simplifique la terapia, devolviendo el foco a lo que de verdad importa: las personas.
