@@ -1,27 +1,43 @@
 ---
 title: 5. Control
 ---
+# (REESCRIBIR)
 # 5. Control y Evaluación
 
-Queremos evaluar el impacto de las acciones del plan de marketing para asegurar que estén cumpliendo con los objetivos establecidos.
+Para no quedarnos solo en buenas intenciones, necesitamos medir qué está pasando con Moira una vez esté en la calle. Un software sin métricas es un barco a la deriva. Nos centraremos en tres bloques clave: indicadores de rendimiento (KPIs), métodos de seguimiento mensual e indicadores de alerta para aplicar medidas correctoras.
 
-## Indicadores de rendimiento (KPI)
+---
 
-Mediante análisis de datos queremos recoger estos datos de forma anónima:
-- Numero de psicólogos registrados.
-- Numero de psicólogos que usan la app.
-- Numero de pacientes registrados.
-- Numero de pacientes que usan la app.
-- Tasa de conversión de psicólogos a plan de pago.
+## 5.1. Indicadores de rendimiento (KPI)
 
-## Métodos de seguimiento
+Los datos se recopilan de forma automatizada y anónima a través de nuestra infraestructura, respetando siempre el secreto profesional. 
 
-- Mensualmente, se realizará un informe de los KPIs mencionados.
-- Análisis de actividad anónima mediante telemetria.
-- Nivel de satisfacción de los usuarios mediante encuestas anónimas.
+*   **KPIs de Negocio (SaaS):**
+    *   **MRR (Ingresos Mensuales Recurrentes):** Facturación total de suscripciones al mes. Es nuestra métrica reina.
+    *   **Churn Rate (Tasa de cancelación):** Porcentaje de psicólogos que dan de baja su suscripción cada mes. Aspiramos a mantenerlo por debajo del 5%.
+    *   **LTV (Lifetime Value):** Cuánto dinero nos deja un psicólogo de media antes de darse de baja.
+*   **KPIs de Uso Clínico (Adopción):**
+    *   **Psicólogos Activos:** Profesionales con suscripción activa que acceden al dashboard al menos una vez por semana.
+    *   **Pacientes Vinculados Activos:** Usuarios que registran como mínimo tres estados emocionales o crisis a la semana en la app.
+    *   **Ratio Paciente/Terapeuta:** Media de pacientes vinculados por psicólogo (nuestra estimación media es de 10 pacientes por profesional).
 
-## Medidas correctoras
+---
 
-- Simplificación de la app para que sea más accesible.
-- Mejorar la comunicación del valor añadido de la app.
-- Ajuste de precios 
+## 5.2. Métodos de seguimiento
+
+*   **Cierre de mes:** Elaboración de un informe financiero de P&L y métricas SaaS en los primeros 5 días de cada mes.
+*   **Telemetría de producto:** Análisis de flujos dentro de la app para detectar en qué pantallas se atascan los pacientes al hacer un registro.
+*   **Termómetro de satisfacción:** Envío de una micro-encuesta semestral de usabilidad (Net Promoter Score) tanto a profesionales como a pacientes.
+
+---
+
+## 5.3. Medidas correctoras (Gatillos de acción)
+
+Si las métricas se desvían de los objetivos, no esperaremos a que la caja se vacíe. Activaremos planes de contingencia basados en los siguientes disparadores:
+
+*   **Si la tasa de cancelación (Churn) supera el 8% mensual:**
+    *   *Acción:* Realizaremos entrevistas cualitativas con los profesionales que se dan de baja para corregir fallos en el producto y redefinir el soporte postventa.
+*   **Si el coste de adquisición (CAC) es superior a los ingresos del primer mes de suscripción:**
+    *   *Acción:* Frenar el gasto en LinkedIn Ads y pivotar hacia una comunicación más orgánica (webinars y recomendaciones directas).
+*   **Si la tasa de actividad del paciente cae por debajo de 2 registros semanales:**
+    *   *Acción:* Rediseñar la UX de la app móvil. Menos campos de texto, más iconos intuitivos y notificaciones push tipo recordatorio más amigables.

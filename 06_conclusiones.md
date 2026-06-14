@@ -1,17 +1,17 @@
 ---
 title: 6. Conclusiones
 ---
+# (REESCRIBIR)  
 # 6. Conclusiones
 
 ## Viabilidad del plan
 
-El plan es viable en un primer momento ya que su implementacion es progresiva y la suma de los costes es bastante reducida y ajustada, lo que nos permite evaluar su viabilidad en un primer momento sin tener un riesgo financiero elevado.
+Los números no mienten: la viabilidad financiera de Moira está respaldada por una estructura de costes fijos sumamente magra (apenas 1.240 € el primer año) y un modelo de suscripción directa sin rodeos de gratuidad. En el mundo del software B2B, no tener pérdidas es relativamente sencillo si se mantiene el desarrollo bajo control y se subcontrata lo justo. Con tan solo captar y fidelizar a **5 psicólogos activos en el plan anual**, el proyecto ya alcanza su punto de equilibrio y cubre el coste de los servidores. A partir de ahí, el crecimiento del margen neto es exponencial.
 
-Queremos evaluar la viabilidad del proyecto en función a su periodo de prueba, donde valoraremos la aceptación de los usuarios y la viabilidad del modelo de negocio.
+La ausencia de planes gratuitos acelera el camino hacia la rentabilidad y filtra, desde el primer minuto, a los profesionales que realmente valoran la optimización de sus sesiones.
 
 ## Coherencia del proyecto
 
-- Tenemos una necesidad real del mercado que se puede resolver con la aplicación.
-- Acciones del plan operativo son coherentes con los objetivos del plan estratégico.
-- Presupuesto es ajustado y limitado.
-- Posible expansión del proyecto a otros profesionales fuera de la organización.
+*   **Dolor real:** Resolvemos una ineficiencia crítica en la práctica psicológica: la pérdida de tiempo clínico recolectando información retrospectiva.
+*   **Alineamiento operativo:** Las acciones de comunicación en LinkedIn y webinars conectan directamente con los Buyer Personas definidos, sin dispersar el presupuesto en campañas masivas inútiles.
+*   **Modelo de monetización limpio:** Al pagar el terapeuta y acceder gratis el paciente, eliminamos fricciones de adopción y garantizamos la sostenibilidad del negocio mediante ingresos recurrentes previsibles.
