@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 2. Estrategia
 ---
 # 2. Estrategia de Marketing

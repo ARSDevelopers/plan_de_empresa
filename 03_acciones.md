@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 3. Acciones
 ---
 # 3. Acciones del plan operativo

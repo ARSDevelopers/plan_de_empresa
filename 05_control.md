@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 5. Control
 ---
 # 5. Control y Evaluación
