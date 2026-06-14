@@ -5,108 +5,65 @@ title: 3. Acciones
 
 ## 3.1. Producto / Servicio (Ficha 02)
 
-### Características
+### Características principales
 
-La aplicación consiste en un sistema de seguimiento que permita centralizar los datos de los pacientes y ayudar a los profesionales a gestionar y analizar los datos de sus pacientes de forma digital.
+Moira es una plataforma digital de doble vertiente diseñada específicamente para optimizar la interacción en psicoterapia. Consta de dos componentes integrados en tiempo real:
 
-Las principales características de la aplicación son:
-
-- Para el paciente, un panel de control para gestionar los datos del paciente.
-- Para el profesional, un panel de control para gestionar los datos del paciente.
-- Los datos se almacenan en el dispositivo del usuario de forma local y se exportan en formato CSV.
-
+1.  **Para el Paciente (App móvil):** Un entorno sumamente ligero y amigable. Permite registrar estados de ánimo, crisis emocionales, síntomas físicos y los pensamientos automáticos que surgen entre sesión y sesión. A diferencia de otras apps que saturan, aquí se prioriza la rapidez: un registro se completa en tres toques. Los datos están cifrados y el usuario conserva el derecho de exportar su historial en formato CSV o PDF cuando lo desee.
+2.  **Para el Terapeuta (Dashboard web):** Un panel de control clínico desde el cual el psicólogo visualiza de forma agregada las gráficas de evolución, picos de ansiedad y desencadenantes recurrentes de sus pacientes vinculados. Esto le permite preparar la sesión en cinco minutos antes de recibir al paciente, yendo directo a los nudos terapéuticos de la semana.
 
 ### Diseño y valor añadido
-- Se ofrece un acceso seguro a los datos del usuario mediante una autenticación con Google.
-- Navegación intuitiva y amigable, queremos no abrumar al usuario con demasiada información.
-- Análisis automático de patrones.
-- Sincronización con la nube para que el profesional pueda acceder a los datos desde cualquier dispositivo.
-- Autenticación de usuarios con Google.
+*   **Acceso blindado:** Autenticación robusta y segura mediante Google o correo electrónico con cifrado SSL.
+*   **Visualización limpia:** Gráficos intuitivos de evolución emocional sin sobrecarga de datos innecesarios.
+*   **Detección de patrones:** Algoritmo sencillo que agrupa detonantes (ej. problemas de sueño, discusiones laborales) y los correlaciona con caídas en el estado de ánimo.
+*   **Sincronización en la nube:** Acceso seguro desde cualquier dispositivo para el profesional, garantizando disponibilidad inmediata.
+
+---
 
 ## 3.2. Precio (Ficha 03)
 
-### 3.2.1. Justificación
+### 3.2.1. Modelo SaaS (Software as a Service) de pago directo
 
-Queremos resolver este problema creando una aplicación que permita a los psicólogos y terapeutas gestionar y analizar los datos de sus pacientes de forma digital y a los pacientes que puedan ver sus datos en un solo lugar.
+En Moira nos desmarcamos de la estrategia del freemium. No creemos en planes gratuitos limitados que frustran al usuario o que comprometen la privacidad vendiendo datos agregados. El psicólogo es el cliente comercial; el paciente no paga nada, lo que elimina cualquier barrera de adopción en el tratamiento.
 
-### 3.2.2. Modelo SaaS (Software as a Service)
+Establecemos dos tarifas claras de suscripción recurrente para el profesional:
 
-La aplicación se ofrecerá mediante un **modelo de suscripción online**, lo que facilita el acceso inmediato y seguro para los profesionales, asegurando la escalabilidad del proyecto a otras asociaciones o profesionales del sector.
+*   **Plan Mensual (Suscripción Básica):** **29 €/mes**. Orientado a terapeutas autónomos con un volumen medio de hasta 25 pacientes activos en plataforma. Ofrece soporte técnico estándar y exportación de datos.
+*   **Plan Anual (Ahorro):** **249 €/año** (pago único equivalente a unos ~20 € al mes, lo que supone un descuento de casi el 30%). Ideal para fidelizar al profesional y mejorar la caja de la empresa en fases iniciales.
+*   **Plan Clínicas:** **59 €/mes** con capacidad para pacientes ilimitados y funciones de exportación avanzadas para centros con múltiples terapeutas.
 
-- Estrategia de precios
-- Política de descuentos
+### 3.2.2. Política de descuentos y captación inicial
+*   **Descuento de lanzamiento:** Durante los primeros dos meses de comercialización, se aplicará un 15% de reducción vitalicia en la suscripción anual para los primeros 30 profesionales que confíen en nosotros.
+*   **Programa de recomendación:** Por cada colega de profesión recomendado que contrate cualquier plan de pago, el psicólogo recomendador obtendrá un mes de suscripción completamente gratuito.
 
-### 3.3. Distribución (FICHA 04)
+---
 
-Nuestro `canal de distribución` será **directo y digital**.
+## 3.3. Distribución
 
-El producto se desarrolla y se entrega directamente a la asociación **SEMBREM** como `cliente inicial`, sin `intermediarios comerciales`.
+Nuestra distribución es estrictamente **digital y directa** y un servicio B2B (Negocio a negocio). Prescindimos de cualquier tipo de intermediario tradicional, lo que nos permite mantener márgenes limpios y un contacto estrecho con nuestro cliente.
 
-1. No existen `mayoristas`.
-2. No existen `minoristas`.
-3. Somos `desarrolladores` del servicio y lo ofrecemos directamente al `cliente profesional`.
+1.  **Sin intermediarios:** No dependemos de minoristas ni mayoristas tecnológicos.
+2.  **Canal Online:** La contratación, la pasarela de pago (mediante Stripe) y el acceso a la plataforma se realizan de manera centralizada a través de nuestra web corporativa.
+3.  **Implementación asistida:** Para reducir la fricción inicial, ayudamos al psicólogo a configurar su cuenta y a importar sus primeros pacientes mediante una videollamada corta de bienvenida, asegurando una puesta en marcha inmediata.
 
-#### Canal directo
+---
 
-Nos encargamos de todo el desarrollo y la distribución de la app, asegurando que cada función cumpla con las necesidades de nuestros clientes.
+## 3.4. Comunicación
 
-1. Somos los `desarrolladores` de la aplicación.
-2. La distribuimos directamente a la `asociación cliente`.
-3. En la fase inicial, el proyecto se implementa para **SEMBREM** como `cliente piloto`.
+La estrategia de comunicación de Moira se centrará en canales muy segmentados y profesionales, huyendo del ruido de las redes sociales masivas y priorizando la autoridad técnica.
 
-##### Acceso online
+*   **LinkedIn y grupos especializados:** Campañas de contenido orgánico y de pago (LinkedIn Ads) enfocadas en las ineficiencias de tiempo que sufren los terapeutas en consulta.
+*   **Email Marketing selectivo:** Envío de dossiers informativos a colegios oficiales de psicología y gabinetes privados medianos.
+*   **Webinars prácticos:** Sesiones online gratuitas de 30 minutos sobre "Cómo mejorar el ROI y la retención de pacientes usando herramientas digitales de autorregistro".
+*   **Folleto digital de una página:** Diseñado en PDF interactivo para resumir las funcionalidades clave, las tarifas de suscripción y el enlace directo de alta.
 
-La distribución es completamente `digital`, lo que facilita el acceso inmediato y seguro para los profesionales que utilicen la app.
-La aplicación se ofrecerá mediante:
+---
 
-1. `Página web corporativa`
-2. `Acceso online` a la plataforma
-3. `Modelo de suscripción` (en fases futuras)
+## 3.5. Plan de atención al cliente (FICHA 05)
 
-No existe `tienda física`, ya que se trata de un `producto digital`.
+Sabemos que los terapeutas trabajan contrarreloj y no pueden permitirse fallos técnicos durante una consulta. Diseñamos un servicio postventa ágil y centrado en la resolución inmediata.
 
-#### Nuevas formas de distribución
+*   **Organización del soporte:** Habilitamos un canal de atención preferente por WhatsApp Business y correo electrónico para incidencias urgentes (ej. problemas de acceso al dashboard). El compromiso de resolución es inferior a 12 horas en días laborables.
+*   **Gestión de sugerencias:** Un buzón integrado en el panel del psicólogo para proponer nuevas funcionalidades. Una vez al mes, el equipo de desarrollo priorizará las sugerencias más votadas por la comunidad de usuarios.
+*   **Encuestas de satisfacción:** Evaluaciones breves dos veces al año (Net Promoter Score) para medir la salud de la herramienta y detectar posibles mejoras en la usabilidad de la app del paciente.�n de reclamaciones y sugerencias
 
-En una fase futura, el producto podrá contratarse mediante `suscripción online` desde la `página web`. Esto permitirá su `escalabilidad` a otras asociaciones o profesionales del sector.
-
-1. Contratación mediante `suscripción online`.
-2. Escalabilidad a otras asociaciones o profesionales del sector.
-
-### 3.4. Comunicación (FICHA 04)
-
-Para dar a conocer la app, nos centraremos en **canales digitales y profesionales**, que nos permitan llegar directamente a los `psicólogos` y `asociaciones` interesadas.
-
-Entre los principales medios se incluyen:
-
-- `Internet` y `página web corporativa`.  
-- `Mailing` dirigido a profesionales y asociaciones del sector.  
-- `Redes sociales`, como `LinkedIn` y grupos especializados de psicología.  
-
-#### Material de promoción
-
-Elaboraremos un **folleto digital de una página** que resuma los beneficios, precios y datos de contacto.
-También diseñaremos una **tarjeta de visita digital**, logotipos, banners y `mockups` de la app para reforzar la imagen profesional.
-
-#### Promoción de ventas y fidelización
-
-Para animar a probar la app, ofreceremos:
-
-- Acceso de `prueba gratuita` para psicólogos o asociaciones.  
-- `Webinars` y demostraciones online.  
-- Participación en `eventos profesionales` del sector.  
-
-Mantendremos una relación cercana mediante `newsletters`, soporte personalizado y recogida de `feedback`.
-
-#### Relaciones públicas y venta directa
-
-Reforzaremos nuestra reputación mediante:
-
-- `Patrocinio` de eventos o jornadas de psicología.  
-- Colaboración en `publicaciones` sobre bienestar digital.  
-- Presentaciones directas a asociaciones como `SEMBREM` por parte de nuestro equipo.  
-
-### 3.5. Plan de atención al cliente (FICHA 05)
-
-- Organización de la atención al cliente
-- Gestión de reclamaciones y sugerencias
-- Encuestas de satisfacción

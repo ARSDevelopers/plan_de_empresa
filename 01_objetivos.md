@@ -3,34 +3,26 @@ title: 1. Objetivos
 ---
 # 1. Objetivos de Marketing
 
-
 ## 1.1. Objetivos generales
 
-Queremos crear una aplicación que ayude al bienestar mental de los pacientes mediante un sistema de seguimiento que permita centralizar sus datos en un único lugar de forma accesible y segura. Los datos solo serán accesibles para el propio paciente y para su psicólogo o terapeuta de SEMBREM.
+Buscamos construir una solución digital que realmente marque una diferencia en el día a día de las consultas de psicología. Con Moira, la meta es centralizar los registros emocionales del paciente en un entorno seguro y de acceso exclusivo, compartido únicamente entre él y su terapeuta. Al final del día, el psicólogo es quien necesita esa foto clara del estado mental de su paciente antes de que cruce la puerta de la consulta. Agilizar las sesiones. Ese es el núcleo de todo.
 
-Asimismo, queremos que dichos profesionales puedan acceder a la información de sus pacientes para realizar un seguimiento de su evolución y mejorar la calidad de la intervención terapéutica.
+Desde un prisma estratégico y financiero, nos proponemos:
 
-De forma estratégica, pretendemos:
-
-- Comprobar la viabilidad de un modelo de negocio orientado a profesionales de la salud mental.
-- Evaluar la viabilidad del proyecto dentro de SEMBREM y analizar su posible expansión a otros profesionales fuera de la organización.
-- Desarrollar un servicio profesional de apoyo terapéutico digital que complemente la atención presencial.
-
+- Validar comercialmente un software de nicho enfocado al sector del bienestar y la salud mental bajo un modelo de pago directo.
+- Posicionar a Moira como la herramienta de referencia para terapeutas independientes y clínicas que buscan desterrar el clásico autorregistro en papel.
+- Ofrecer un canal digital que sirva de puente de confianza, respetando al máximo la confidencialidad sin añadir trabas de gestión en el día a día.
 
 ## 1.2. Objetivos específicos
 
-### Captación de psicólogos
+### Captación de profesionales (Psicólogos)
 
-Conseguir que al menos 10 psicólogos pertenecientes a SEMBREM utilicen activamente la aplicación durante los tres primeros meses tras su lanzamiento.
+El objetivo es sumar a 15 psicólogos de pago en la plataforma durante los primeros tres meses tras el lanzamiento oficial. No hay rodeos con periodos de prueba eternos ni planes gratuitos que desvaloricen la herramienta. Quien entra en Moira, entra invirtiendo en la mejora de sus sesiones. Definimos el "uso activo" cuando el terapeuta da de alta a al menos a 5 pacientes y monitoriza sus gráficas semanalmente.
 
-Se considerará uso activo cuando el profesional registre pacientes en la plataforma y consulte su información de forma periódica.
+### Captación de usuarios (Pacientes)
 
-### Captación de pacientes
+Queremos alcanzar la cifra de 150 pacientes activos en el mismo plazo de tres meses. El paciente no paga un céntimo; su acceso se vincula directamente a la licencia del profesional. ¿Cuándo consideramos que hay actividad real? Cuando registren al menos tres estados emocionales o episodios semanales a través de la app. Si no, el sistema pierde su magia.
 
-Conseguir que al menos 100 pacientes utilicen activamente la aplicación durante los tres primeros meses tras su lanzamiento.
+### Retención y fidelización de suscripciones
 
-Se considerará uso activo cuando el paciente registre episodios o seguimientos y consulte su información de forma periódica.
-
-### Conversión a pago
-
-Conseguir que al menos un 40% de los psicólogos que utilicen activamente la aplicación durante los tres primeros meses (periodo en el que se ofrecerá una promoción gratuita) realicen la conversión al plan de pago una vez finalizada dicha promoción.
+Dado que Moira nace como un servicio de suscripción de pago directo, el foco financiero está en la permanencia. Buscamos conservar al menos al 85% de los terapeutas captados durante los primeros seis meses, minimizando la tasa de cancelación (churn rate). La recurrencia mensual es la clave para la viabilidad a largo plazo de este proyecto.

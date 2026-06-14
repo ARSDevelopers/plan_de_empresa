@@ -7,154 +7,110 @@ title: 2. Estrategia
 
 ### 2.1.1. Criterios de segmentación
 
-En este apartado veremos los criterios de segmentación:
+Para no dar palos de ciego, dividimos nuestro mercado analizando a quién le duele de verdad el problema de la gestión del tiempo terapéutico. No todos los profesionales ni todos los pacientes encajan aquí.
 
-- Demográficos
-- Geográficos
-- Psicográficos
-- Conductuales
+- **Demográficos:** 
+  Apuntamos a psicoterapeutas y psicólogos clínicos que trabajen de forma independiente o en pequeños gabinetes asociados (normalmente de 25 a 55 años). Este grupo tiene soltura con el móvil pero aborrece la tecnología médica farragosa. Por el lado de los pacientes, el espectro es amplio: adultos de 18 a 50 años que asisten a terapia en el ámbito privado.
+  
+- **Geográficos:**
+  El foco de lanzamiento se sitúa en España, cumpliendo a rajatabla el estricto Reglamento General de Protección de Datos (RGPD) en su vertiente de salud. La idea es consolidarse primero a nivel nacional antes de plantear la traducción de la herramienta.
+  
+- **Psicográficos:**
+  Profesionales que priorizan la calidad humana de la sesión y sienten que la burocracia les roba tiempo de oro. Pacientes con un rol activo en su bienestar mental, capaces de usar su smartphone como un diario reflexivo, pero que necesitan sencillez para no tirar la toalla al tercer día.
+  
+- **Conductuales:**
+  Terapeutas con un volumen de trabajo alto (más de 15 sesiones por semana) y que utilicen ya alguna herramienta de videollamada o agenda online. Pacientes propensos a abandonar los registros en papel o que acaban inventándose el resumen de la semana en la misma sala de espera de la consulta.
+
+---
 
 ## 2.2. Público Objetivo (Target)
 
-- Perfil de Cliente ideal / Buyer persona
+Aquí es donde ponemos caras y nombres para entender con quién estamos hablando. Hemos diseñado dos perfiles clave que representan la dualidad de nuestra app.
 
-## 2.3. Posicionamiento (FICHA 01)
+### La profesional: Laura, la psicóloga desbordada
+*   **Edad:** 41 años.
+*   **Contexto:** Trabaja en su propia consulta en Valencia y colabora de forma externa con un centro de día. 
+*   **Problema:** Pasa los primeros 15 minutos de cada consulta intentando que el paciente haga memoria de lo que sintió tras una discusión familiar ocurrida hace seis días. Siente que esta ocupando mucho tiempo y le resta efectividad al tratamiento.
+*   **Expectativa:** Busca una gráfica limpia y centralizada en su ordenador que le revele las fluctuaciones emocionales de su semana. Y está dispuesta a pagar una suscripción mensual fija si eso le devuelve el control de su tiempo de terapia.
+
+### El paciente: Carlos, el nativo digital con ansiedad
+*   **Edad:** 28 años.
+*   **Contexto:** Trabaja en desarrollo de software, sufre de ansiedad generalizada y acude a terapia semanalmente.
+*   **Problema:** Su terapeuta le da fichas en papel para registrar sus crisis. Las pierde en la mochila, le da vergüenza rellenarlas en público y, honestamente, se aburre a mitad de semana.
+*   **Expectativa:** Busca una interfaz móvil rápida, bonita y privada donde pueda registrar un ataque de pánico en menos de 30 segundos, sin campos innecesarios.
+
+---
+
+## 2.3. Posicionamiento
 
 ### Justificación
 
-Queremos resolver este problema creando una aplicación que permita a los psicólogos y terapeutas gestionar y analizar los datos de sus pacientes de forma digital y a los pacientes que puedan ver sus datos en un solo lugar.
+La app Moira nace como una respuesta pragmática y empática. No queremos ser otro software de facturación médica ni otra app comercial de autoayuda con meditaciones grabadas. Queremos tender un puente digital seguro para que terapeuta y paciente compartan información en tiempo real, agilizando el ritmo de las sesiones de terapia individuales.
 
 ### Calidad del producto/servicio
 
-Aspiramos a una **calidad alta** porque el **bienestar de los pacientes** y la **eficacia de los psicólogos** son nuestra prioridad.
+Buscamos un nivel de **calidad alto**. En salud mental, la mediocridad se traduce en abandono de la terapia o vulneración de la privacidad. No estamos haciendo un juguete; hacemos un entorno clínico seguro.
 
-Más que una *app*, queremos crear un **espacio digital de apoyo y confianza**.
+#### ¿Cómo se materializa esta calidad?
 
-#### Materialización de la calidad
-
-La calidad se materializa a través de:
-
-1. **Análisis automático de patrones**
-    Aporta **inteligencia a los datos**, ahorrando *tiempo* y revelando `insights`, es decir, una comprensión profunda y reveladora sobre los patrones de comportamietno del paciente.
-
-2. **Datos en el dispositivo and exportación**
-    Ofreciendo **control** y **privacidad** al paciente mediante el almacenamiento local y la posibilidad de `exportar datos`.
-
-3. **Diseño amigable (UX/UI)**
-    Se prioriza una **interfaz intuitiva** y un **diseño cercano** para que la herramienta sea un apoyo y no una barrera `fría` o `complicada`.
-
-4. **Registro detallado de episodios**
-    Permite una **captura de información granulada** —`qué`, `cuándo`, `intensidad`, `antes/después`, `qué sintió`— resultando **útil y relevante para la terapia**.
+1.  **Análisis inteligente de patrones:**
+    El software procesa el registro y genera tendencias emocionales legibles. Traduce un montón de anotaciones sueltas en `insights` claros para la terapia.
+    
+2.  **Privacidad por diseño (Privacy by Design):**
+    Los datos se cifran en el dispositivo del paciente. Él decide compartirlos de forma cifrada directamente con el profesional. Sin intermediarios husmeando sus emociones.
+    
+3.  **Experiencia de usuario empática (UX/UI):**
+    Una app fría desmotiva. El diseño de Moira se siente orgánico, cercano y con colores suaves que transmiten calma, no distancias clínicas.
+    
+4.  **Registro ágil de episodios:**
+    Nada de cuestionarios interminables. En pocos toques se anota el detonante, la intensidad, los síntomas físicos y el pensamiento asociado.
 
 ### Precio de venta
 
-Proponemos un **precio medio-alto**, diferenciándonos de las *aplicaciones de bajo coste*.
-Fijando dicho precio según la **estrategia del mapa de posicionamiento**, ocuparíamos un **nicho de mercado**, evitando dos extremos claramente definidos:
+Nos desmarcamos de la guerra del céntimo. Establecemos un **precio medio-alto** bajo suscripción exclusiva para el profesional (el paciente accede de forma gratuita como parte de la licencia de su terapeuta). Si una herramienta es útil y ahorra tiempo de facturación indirecta, el psicólogo la pagará encantado porque el **retorno de la inversión (ROI)** es evidente: menos sesiones improductivas y mayor fidelización de sus pacientes.
 
-1. El cuadrante de **precio bajo**, ocupado por *apps genéricas* de **calidad baja–media**.
-2. El cuadrante de **precio alto**, ocupado por *softwares complejos de gestión clínica* que, a menudo, carecen de un **diseño amigable** para el *paciente*.
-
-#### Enfoque del modelo de negocio
-
-Dado que la aplicación nace para servir como solución a una **asociación (SEMBREM)**, nuestro modelo de negocio debe ser `sostenible` y estar **centrado en el cliente profesional**.
-Por ello, no competimos por ser la opción *más barata*, sino por ofrecer el mejor **`valor percibido`**.
-
-#### Justificación del precio
-
-Justificamos el **precio medio-alto** con el claro **retorno de la inversión (`ROI`)** que obtienen nuestros clientes, materializado en:
-
-1. **Ahorro de tiempo**
-2. **Mayor eficacia terapéutica**
+---
 
 ### Competencia y soluciones existentes
 
-En el mercado actual del **bienestar digital** y la **psicología** existen varias soluciones que cubren *partes del problema*, pero **no lo abordan de forma completa** como nuestra propuesta.
+El panorama del bienestar digital está muy fragmentado, pero podemos agrupar a los competidores en tres trincheras:
 
-Podemos agruparlas en **tres grandes bloques**:
+#### 1. Software de gestión clínica (ej. Eholo, DriCloud, Eudatox)
+*   **El problema:** Son plataformas excelentes para gestionar agendas y facturas, pero su parte de autorregistro es fría, aburrida y parece una base de datos médica de principios de siglo. Los pacientes la detestan y la abandonan rápido.
+*   **Nuestra ventaja:** Moira se enfoca en el vínculo y la UX, haciendo que el registro emocional sea un hábito natural y no una tarea administrativa.
 
-#### **Software de gestión clínica**
+#### 2. Apps de consumo masivo (ej. Daylio, Yana, DailyBean)
+*   **El problema:** Tienen diseños maravillosos y gamificación adictiva, pero son herramientas aisladas. Los datos del paciente se quedan en su móvil; el psicólogo no tiene acceso integrado y útil para la sesión clínica. Además, la protección de datos suele ser dudosa.
+*   **Nuestra ventaja:** Creamos el enlace directo y seguro para que esa información se use clínicamente en la consulta privada.
 
-1. **Ejemplos**
-    * [Eholo](https://www.eholo.health/)
-    * [DriCloud](https://dricloud.com/?srsltid=AfmBOoo-pd5dpdryDid_H5ZgJo17lKFXyJTI8MlViJIF87XlWNx03djT)
-    * [Eudatox](https://gestionsaludmental.com/)
-    * [moodo](https://www.moodo.ai/)
+#### 3. El autorregistro tradicional (papel y boli)
+*   **El problema:** Se pierde, no genera estadísticas automáticas y la gente tiende a completarlo de memoria justo antes de entrar a consulta, falseando el sesgo retrospectivo.
+*   **Nuestra ventaja:** Permite el registro en caliente (en el momento del episodio) y genera análisis de patrones de forma instantánea.
 
-2. **Análisis**
-    Son herramientas muy potentes para **facturar** y **gestionar la consulta**.
-    Sin embargo, la parte de `autorregistro` resulta **muy fría**, ya que el *paciente* siente que está rellenando un `formulario médico aburrido`, lo que provoca que deje de utilizarlo.
-
-3. **Nuestra solución**
-    No queremos que el paciente *“rellene datos”*, sino que lo haga sintiendo que utiliza un **diario de bienestar** *amigable* y cercano.
-
-#### Aplicaciones de consumo
-
-1. **Ejemplos**
-    * [Daylio](https://daylio.net/)
-    * [DailyBean](https://play.google.com/store/apps/details?id=com.bluesignum.bluediary&hl=es)
-    * [Yana](https://www.yana.ai/es/home)
-
-2. **Análisis**
-    Destacan por un **diseño excelente** y una **gran facilidad de uso**.
-    El principal problema es que el *psicólogo* de la organización **no recibe esos datos**.
-    La información se queda en el `móvil del usuario` o en una `nube privada`, perdiendo **valor terapéutico** para la sesión y la comunicación entre *paciente* y *profesional*.
-    Además, muchas de las apps internacionales no garantizan el cumplimiento del RGPD sanitario español.
-
-3. **Nuestra solución**
-    Queremos ser el **puente de conexión** entre ambas entidades:
-      * Tomamos lo mejor del **diseño** de la competencia.
-      * Permitir que el paciente sea dueño de sus propios datos en su móvil, pero esta decida compartirlos de forma cifrada con su terapeuta de SEMBREM.
-      * Conectamos los **datos** con el *terapeuta* o *psicólogo de Alzira (SEMBRE)* de forma `segura`.
-
-#### El autorregistro clásico
-
-1. **Ejemplos**
-    Papel y boli.
-
-2. **Análisis**
-    Es una herramienta **útil**, pero los datos pueden perderse con el `tiempo` y no permite generar `gráficos automáticos` ni análisis avanzados.
-    Además, el papel no permite el **registo en tiempo real**.
-
-3. **Nuestra solución**
-    Ofrecemos **análisis automático de patrones** mediante `gráficos`, junto con una **interfaz moderna** que el soporte tradicional no puede proporcionar.
-    Mientras que el paciente suele rellenar el papel antes de entrar a la consulta, la app permite registrar el episodio justo cuanto ocurre.
+---
 
 ### 2.3.1. Propuesta de valor
 
-Es importante recordar que **no es lo mismo calidad que `calidad percibida`**, ya que esta última depende en gran medida del **marketing** y de la **experiencia del usuario**.
+Queremos que Moira sea percibida como algo más que un simple software de suscripción.
 
-Queremos que el **valor percibido** vaya más allá del *software* y se base en una forma de **acompañamiento terapéutico** más cercano y *empático*, incluso dentro del entorno digital.
-
-#### Objetivo de percepción del producto
-
-Por esta razón, nuestro objetivo es que la aplicación sea percibida de la siguiente manera:
-
-1. **Para el paciente**
-   Como un **compañero de viaje** *discreto*, *cercano* y `sin juicios`.
-   Un **espacio de confianza** donde puede ser totalmente honesto, que le ayude a:
-   * Poner nombre a lo que siente
-   * Entender su propio proceso
-
-   Es una herramienta que **le da poder y voz** dentro de su proceso terapéutico.
-
-2. **Para el psicólogo**
-   Como un **aliado estratégico** que potencia su *intuición*.
-   No es una máquina para `reemplazar` su trabajo, sino una **lente de aumento** que:
-   * Aporta **claridad** sobre los datos del día a día del paciente
-   * Reduce la **carga de gestión de información**
-   * Permite dedicar más tiempo a la **conexión humana**
-
-#### Valor percibido global
-
-Por todo esto, el **valor percibido** de la aplicación es el de ser un **puente de confianza y entendimiento** entre el *paciente* y el *profesional*, bajo un **modelo SaaS (Software as a Service)** que garantiza la actualización y el soporte continuo.
+*   **Para el paciente:** Un espacio digital seguro, discreto y sin juicios que le permite dar nombre a lo que siente en su día a día.
+*   **Para el psicólogo:** Un aliado estratégico que amplifica su intuición clínica y le ahorra el trámite de recabar datos retrospectivos durante la consulta, permitiéndole ir directo al grano.
 
 ### 2.3.2. Mapa de posicionamiento
 
 ![mapa_de_posicionamiento_de_calidad_precio](./Fichas/assets/svg/posicionamiento/mapa_de_posicionamiento_de_calidad_precio.svg)
 
+---
+
 ## 2.4. Estrategia General
 
-!!! Tip
-    - Estrategia de crecimiento (Ansoff): [Matriz de Ansoff - ESIC](https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-la-matriz-de-ansoff-para-que-sirve-ejemplos-c)
-    - Estrategia competitiva (liderazgo en costes, diferenciación, enfoque): [Estrategia competitiva - OBS](https://www.obsbusiness.school/blog/estrategia-competitive-definicion-tipos-y-planteamiento)
-    - Estrategia de marca (si aplica): [Brand Strategy - Amazon Advertising](https://advertising.amazon.com/es-es/library/guides/brand-strategy)
+Nuestra ruta estratégica se apoya en tres pilares conceptuales para consolidar la marca:
+
+### 2.4.1. Estrategia Competitiva (Diferenciación Focalizada)
+No buscamos ser la app de meditación de millones de personas ni el software administrativo de grandes hospitales. Nos enfocamos exclusivamente en la **diferenciación por utilidad clínica y diseño** para gabinetes y terapeutas independientes de salud mental. Ofrecemos valor a través de la privacidad extrema y la facilidad de uso.
+
+### 2.4.2. Estrategia de Crecimiento (Matriz de Ansoff)
+Apostamos por el **Desarrollo de Producto**. Introducimos una herramienta tecnológica totalmente nueva y adaptada (Moira) en un mercado existente (psicólogos y terapeutas autónomos que ya realizan terapia clínica y usan métodos tradicionales como el papel o plataformas genéricas).
+
+### 2.4.3. Estrategia de Marca (Brand Strategy)
+La marca "Moira" evoca el concepto clásico de tomar las riendas de la propia vida y el destino. Toda la identidad visual y el tono de comunicación huirán de la frialdad médica corporativa. Buscamos transmitir calidez, empatía y solvencia científica. La seguridad de los datos no es una opción de marketing, sino la base ética sobre la que cimentamos la marca.
