@@ -34,7 +34,7 @@ En este apartado veremos los criteriso de segmentación:
 
 ### 3.3. Posicionamiento (FICHA 01)
 
-Consultar [FICHA 01](./Ficha_01_posicionamiento_producto/actividad_01.md)
+Consultar [FICHA 01](./temario/FICHA_01.md)
 
 #### 3.3.1. Propuesta de valor
 
@@ -65,7 +65,7 @@ Consultar [FICHA 01](./Ficha_01_posicionamiento_producto/actividad_01.md)
 
 - Canales de distribución
 
-Consultar [FICHA_04](./Fichas/ficha_04.md)
+Consultar [FICHA_04](./temario/FICHA_04.md)
 
 #### 4.4. Comunicación (FICHA 04)
 
@@ -73,7 +73,7 @@ Consultar [FICHA_04](./Fichas/ficha_04.md)
 - Medios utilizados
 - Calendario <!-- Mirar -->
 
-Consultar [FICHA_04](./Fichas/ficha_04.md)
+Consultar [FICHA_04](./temario/FICHA_04.md)
 
 #### 4.5. Plan de atención al cliente (FICHA 05)
 
