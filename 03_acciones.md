@@ -3,7 +3,7 @@ title: 3. Acciones
 ---
 # 3. Acciones del plan operativo
 
-## 3.1. Producto / Servicio (Ficha 02)
+## 3.1. Producto / Servicio 
 
 ### Características principales
 
@@ -20,7 +20,7 @@ Moira es una plataforma digital de doble vertiente diseñada específicamente pa
 
 ---
 
-## 3.2. Precio (Ficha 03)
+## 3.2. Precio 
 
 ### 3.2.1. Modelo SaaS (Software as a Service) de pago directo
 
@@ -59,7 +59,7 @@ La estrategia de comunicación de Moira se centrará en canales muy segmentados 
 
 ---
 
-## 3.5. Plan de atención al cliente (FICHA 05)
+## 3.5. Plan de atención al cliente
 
 Sabemos que los terapeutas trabajan contrarreloj y no pueden permitirse fallos técnicos durante una consulta. Diseñamos un servicio postventa ágil y centrado en la resolución inmediata.
 
