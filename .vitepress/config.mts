@@ -9,9 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Inicio', link: '/' },
-      { text: 'Plan de Empresa', link: '/01_objetivos' },
-      { text: 'Plan de Marketing', link: '/Fichas/docs/planMarketing' }
+      { text: 'Inicio', link: '/' }
     ],
 
     sidebar: [
@@ -25,15 +23,6 @@ export default defineConfig({
           { text: '5. Control', link: '/05_control' },
           { text: '6. Conclusiones', link: '/06_conclusiones' },
           { text: '7. Anexos', link: '/07_anexos' }
-        ]
-      },
-      {
-        text: 'Fichas y Marketing',
-        items: [
-          { text: 'Plan de Marketing', link: '/Fichas/docs/planMarketing' },
-          { text: 'Ficha 01: Posicionamiento', link: '/Fichas/docs/temario/FICHA_01' },
-          { text: 'Ficha 04: Distribución y Comunicación', link: '/Fichas/docs/temario/FICHA_04' },
-          { text: 'Enlaces Externos', link: '/Fichas/docs/enlaces/enlaces_externos' }
         ]
       }
     ],

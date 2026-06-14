@@ -1,25 +1,15 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# Plan de Empresa - Proyecto Moira
 
-hero:
-  name: "Plan de empresa"
-  text: "Plan de empresa del proyecto Moira"
-  tagline: "Plan de marketing, objetivos, estrategias y presupuestos"
-  actions:
-    - theme: brand
-      text: Ver Plan de Empresa
-      link: /01_objetivos
-    - theme: alt
-      text: Ver Plan de Marketing
-      link: /Fichas/docs/planMarketing
+Bienvenido al Plan de Empresa del proyecto Moira. Utiliza la barra lateral para navegar por las distintas secciones del documento.
 
-features:
-  - title: 1. Objetivos y Estrategias
-    details: Definición de los objetivos generales, específicos, segmentación de mercado y público objetivo.
-  - title: 2. Acciones y Presupuesto
-    details: Acciones de marketing operativo, políticas de precio, producto, distribución y control.
-  - title: 3. Fichas de Trabajo
-    details: Fichas detalladas de posicionamiento de producto, comunicación y enlaces de interés.
----
+Este documento recopila la estructura de negocio, objetivos, estrategias y planes de acción desarrollados para el lanzamiento de la aplicación.
 
+## Estructura del Documento
+
+- [1. Objetivos](./01_objetivos.md): Objetivos generales y específicos del proyecto.
+- [2. Estrategia](./02_estrategia.md): Análisis de mercado, segmentación y posicionamiento.
+- [3. Acciones](./03_acciones.md): Plan de marketing operativo, producto, precio y comunicación.
+- [4. Presupuesto](./04_presupuesto.md): Estimación económica del plan.
+- [5. Control](./05_control.md): Indicadores claves de rendimiento (KPIs) y seguimiento.
+- [6. Conclusiones](./06_conclusiones.md): Viabilidad general y cierre.
+- [7. Anexos](./07_anexos.md): Documentación complementaria y enlaces.
