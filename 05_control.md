@@ -1,7 +1,6 @@
 ---
 title: 5. Control
 ---
-# (REESCRIBIR)
 # 5. Control y Evaluación
 
 Para no quedarnos solo en buenas intenciones, necesitamos medir qué está pasando con Moira una vez esté en la calle. Un software sin métricas es un barco a la deriva. Nos centraremos en tres bloques clave: indicadores de rendimiento (KPIs), métodos de seguimiento mensual e indicadores de alerta para aplicar medidas correctoras.

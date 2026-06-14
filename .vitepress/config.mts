@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: 'Plan de Empresa',
         items: [
+          { text: '0. Introducción', link: '/00_introduccion' },
           { text: '1. Objetivos', link: '/01_objetivos' },
           { text: '2. Estrategia', link: '/02_estrategia' },
           { text: '3. Acciones', link: '/03_acciones' },

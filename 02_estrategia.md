@@ -81,6 +81,14 @@ El panorama del bienestar digital está muy fragmentado, pero podemos agrupar a 
 *   **El problema:** Se pierde, no genera estadísticas automáticas y la gente tiende a completarlo de memoria justo antes de entrar a consulta, falseando el sesgo retrospectivo.
 *   **Nuestra ventaja:** Permite el registro en caliente (en el momento del episodio) y genera análisis de patrones de forma instantánea.
 
+#### 3. Aplicaciones de registro emocional de consumo (Ej. Daylio, DailyBean)
+*   **El problema:** Son herramientas de tracking personal muy pulidas visualmente, pero de carácter cerrado. El terapeuta no tiene un panel conectado en tiempo real para analizar los datos de forma científica; depende de que el paciente los exporte manualmente en PDF/CSV y se los muestre.
+*   **Nuestra ventaja:** Moira ofrece sincronización clínica bidireccional automática, segura y optimizada específicamente para terapia cognitivo-conductual.
+
+#### 4. Plataformas de gestión de consultorios (Ej. Eholo, DriCloud)
+*   **El problema:** Son plataformas administrativas pesadas (facturación, citas, historiales médicos completos) con costes elevados, y carecen de una interfaz móvil fluida y empática para el registro diario de emociones del paciente.
+*   **Nuestra ventaja:** Moira es una solución ligera de nicho centrada al 100% en optimizar el registro emocional de forma rápida y sencilla, sirviendo como un complemento ideal y económico.
+
 ---
 
 ### 2.3.1. Propuesta de valor

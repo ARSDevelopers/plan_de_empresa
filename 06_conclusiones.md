@@ -1,12 +1,11 @@
 ---
 title: 6. Conclusiones
 ---
-# (REESCRIBIR)  
 # 6. Conclusiones
 
 ## Viabilidad del plan
 
-Los números no mienten: la viabilidad financiera de Moira está respaldada por una estructura de costes fijos sumamente magra (apenas 1.240 € el primer año) y un modelo de suscripción directa sin rodeos de gratuidad. En el mundo del software B2B, no tener pérdidas es relativamente sencillo si se mantiene el desarrollo bajo control y se subcontrata lo justo. Con tan solo captar y fidelizar a **5 psicólogos activos en el plan anual**, el proyecto ya alcanza su punto de equilibrio y cubre el coste de los servidores. A partir de ahí, el crecimiento del margen neto es exponencial.
+Los números no mienten: la viabilidad financiera de Moira está respaldada por una estructura de costes fijos sumamente magra (apenas 1.240 € el primer año) y un modelo de suscripción directa sin periodos de gratuidad que desvaloricen la herramienta. En el mundo del software B2B, no tener pérdidas es relativamente sencillo si se mantiene el desarrollo bajo control y se subcontrata lo justo. Con tan solo captar y fidelizar a **6 psicólogos activos** (bajo la distribución de planes estimada), el proyecto ya alcanza su punto de equilibrio y cubre la totalidad de sus costes fijos de infraestructura, herramientas y marketing. A partir de ahí, el crecimiento del margen neto es exponencial.
 
 La ausencia de planes gratuitos acelera el camino hacia la rentabilidad y filtra, desde el primer minuto, a los profesionales que realmente valoran la optimización de sus sesiones.
 

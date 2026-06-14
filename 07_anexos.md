@@ -1,7 +1,6 @@
 ---
 title: 7. Anexos
 ---
-# (REESCRIBIR)
 # 7. Anexos
 
 ## 7.1. Cronograma de Lanzamiento (6 Meses)

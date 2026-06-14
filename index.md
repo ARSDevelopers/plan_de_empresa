@@ -6,6 +6,7 @@ Este documento recopila la estructura de negocio, objetivos, estrategias y plane
 
 ## Estructura del Documento
 
+- [0. Introducción](./00_introduccion.md): Presentación del proyecto y justificación del plan de marketing.
 - [1. Objetivos](./01_objetivos.md): Objetivos generales y específicos del proyecto.
 - [2. Estrategia](./02_estrategia.md): Análisis de mercado, segmentación y posicionamiento.
 - [3. Acciones](./03_acciones.md): Plan de marketing operativo, producto, precio y comunicación.
