@@ -23,21 +23,19 @@ Para no dar palos de ciego, dividimos nuestro mercado analizando a quién le due
 
 ---
 
-## 2.2. Público Objetivo (Target)
+## 2.2. El _Target_
 
 Aquí es donde ponemos caras y nombres para entender con quién estamos hablando. Hemos diseñado dos perfiles clave que representan la dualidad de nuestra app.
 
-### La profesional: Laura, la psicóloga desbordada
-*   **Edad:** 41 años.
-*   **Contexto:** Trabaja en su propia consulta en Valencia y colabora de forma externa con un centro de día. 
+### La profesional
+*   **Contexto:** Trabaja en su propia consulta. 
 *   **Problema:** Pasa los primeros 15 minutos de cada consulta intentando que el paciente haga memoria de lo que sintió tras una discusión familiar ocurrida hace seis días. Siente que esta ocupando mucho tiempo y le resta efectividad al tratamiento.
 *   **Expectativa:** Busca una gráfica limpia y centralizada en su ordenador que le revele las fluctuaciones emocionales de su semana. Y está dispuesta a pagar una suscripción mensual fija si eso le devuelve el control de su tiempo de terapia.
 
-### El paciente: Carlos, el nativo digital con ansiedad
-*   **Edad:** 28 años.
-*   **Contexto:** Trabaja en desarrollo de software, sufre de ansiedad generalizada y acude a terapia semanalmente.
-*   **Problema:** Su terapeuta le da fichas en papel para registrar sus crisis. Las pierde en la mochila, le da vergüenza rellenarlas en público y, honestamente, se aburre a mitad de semana.
-*   **Expectativa:** Busca una interfaz móvil rápida, bonita y privada donde pueda registrar un ataque de pánico en menos de 30 segundos, sin campos innecesarios.
+### El paciente
+*   **Contexto:** Acude a terapia semanalmente.
+*   **Problema:** Su terapeuta le da fichas en papel para registrar sus crisis, le manda actividades para realizar en casa y enocasiones le cuesta mantener la constancia en la realizacion de las mismas.
+*   **Expectativa:** Busca una interfaz móvil rápida, bonita y privada donde pueda registrar un ataque de pánico en menos de 30 segundos, sin campos innecesarios y recibiendo recordatorios para poder mantener la constancia en la realizacion de las mismas. Registra eventos importantes a tratar en la sesión a través de preguntas.
 
 ---
 
@@ -45,16 +43,16 @@ Aquí es donde ponemos caras y nombres para entender con quién estamos hablando
 
 ### Justificación
 
-La app Moira nace como una respuesta pragmática y empática. No queremos ser otro software de facturación médica ni otra app comercial de autoayuda con meditaciones grabadas. Queremos tender un puente digital seguro para que terapeuta y paciente compartan información en tiempo real, agilizando el ritmo de las sesiones de terapia individuales.
+La app nace como una herramienta para mejorar la terapia individual. Queremos ofrecer una solución que agilice el trabajo de los terapeutas y mejore la relación con sus pacientes. El paciente obtendriía una terapia más eficiente, personalizada y efectiva y el psicologo podria obtener una herramienta que le ayude a mejorar la relación con sus pacientes y a obtener información valiosa para el tratamiento, además de ahorrarse tiempo en la gestión de su consulta, por lo que podría reducir sus costes operativos y aumentar su rentabilidad. 
 
 ### Calidad del producto/servicio
 
-Buscamos un nivel de **calidad alto**. En salud mental, la mediocridad se traduce en abandono de la terapia o vulneración de la privacidad. No estamos haciendo un juguete; hacemos un entorno clínico seguro.
+Buscamos un nivel de **calidad alto**. Queremos hacer un entorno clínico seguro. La app no busca reemplazar la relación terapéutica, si no potenciarla.
 
 #### ¿Cómo se materializa esta calidad?
 
 1.  **Análisis inteligente de patrones:**
-    El software procesa el registro y genera tendencias emocionales legibles. Traduce un montón de anotaciones sueltas en `insights` claros para la terapia.
+    El software procesa el registro y genera tendencias emocionales legibles. Facilita la terapia, permitiendo al profesional ver las fluctuaciones emocionales de su paciente y ajustar el tratamiento en consecuencia.
     
 2.  **Privacidad por diseño (Privacy by Design):**
     Los datos se cifran en el dispositivo del paciente. Él decide compartirlos de forma cifrada directamente con el profesional. Sin intermediarios husmeando sus emociones.
@@ -67,7 +65,7 @@ Buscamos un nivel de **calidad alto**. En salud mental, la mediocridad se traduc
 
 ### Precio de venta
 
-Nos desmarcamos de la guerra del céntimo. Establecemos un **precio medio-alto** bajo suscripción exclusiva para el profesional (el paciente accede de forma gratuita como parte de la licencia de su terapeuta). Si una herramienta es útil y ahorra tiempo de facturación indirecta, el psicólogo la pagará encantado porque el **retorno de la inversión (ROI)** es evidente: menos sesiones improductivas y mayor fidelización de sus pacientes.
+Se establecerá un **precio medio-alto** bajo suscripción exclusiva para el profesional. Si una herramienta es útil y ahorra tiempo de facturación indirecta, el psicólogo la pagará encantado porque el **retorno de la inversión** es evidente: menos sesiones improductivas y mayor fidelización de sus pacientes. Para el paciente, el uso de la app será gratuito, como parte de la licencia de su terapeuta.
 
 ---
 
@@ -75,15 +73,11 @@ Nos desmarcamos de la guerra del céntimo. Establecemos un **precio medio-alto**
 
 El panorama del bienestar digital está muy fragmentado, pero podemos agrupar a los competidores en tres trincheras:
 
-#### 1. Software de gestión clínica (ej. Eholo, DriCloud, Eudatox)
-*   **El problema:** Son plataformas excelentes para gestionar agendas y facturas, pero su parte de autorregistro es fría, aburrida y parece una base de datos médica de principios de siglo. Los pacientes la detestan y la abandonan rápido.
-*   **Nuestra ventaja:** Moira se enfoca en el vínculo y la UX, haciendo que el registro emocional sea un hábito natural y no una tarea administrativa.
+#### 1. Software de recordatorios tradicionales. (Ej. Todoist, Microsoft To Do, Google Keep)
+*   **El problema:**: Son softwares excelentes para gestionar tareas generales, pero el psicologo no tiene acceso, y no es personalizada a sus necesidades. Ademas, requiere un esfuerzo adicional por parte del paciente para utilizarlos correctamente. No estan diseñados para el registro emocional.
+*   **Nuestra ventaja:** Moira ofrece una experiencia personalizada, con un diseño basado en la psicologia cognitivo-conductual, y con acceso para el psicologo.
 
-#### 2. Apps de consumo masivo (ej. Daylio, Yana, DailyBean)
-*   **El problema:** Tienen diseños maravillosos y gamificación adictiva, pero son herramientas aisladas. Los datos del paciente se quedan en su móvil; el psicólogo no tiene acceso integrado y útil para la sesión clínica. Además, la protección de datos suele ser dudosa.
-*   **Nuestra ventaja:** Creamos el enlace directo y seguro para que esa información se use clínicamente en la consulta privada.
-
-#### 3. El autorregistro tradicional (papel y boli)
+#### 2. El autorregistro tradicional (papel y boli)
 *   **El problema:** Se pierde, no genera estadísticas automáticas y la gente tiende a completarlo de memoria justo antes de entrar a consulta, falseando el sesgo retrospectivo.
 *   **Nuestra ventaja:** Permite el registro en caliente (en el momento del episodio) y genera análisis de patrones de forma instantánea.
 
